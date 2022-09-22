@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhmdessameldin
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis, Python, Numpy, Pandas and matplotlip
+- 👀 I’m interested in Data Analysis and programing
+- 🌱 I’m currently learning CS50, Data Analysis, Python, Numpy, Pandas and matplotlip
 - 💞️ I’m looking to collaborate to increase my Knowledge of specialized skills in python and help other in their problems
 - 📫 How to reach me mhmdessameldin@gmail.com
 
